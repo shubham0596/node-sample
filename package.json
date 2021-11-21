@@ -1,0 +1,22 @@
+{
+  "name": "node-sample",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham0596/node-sample.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham0596/node-sample/issues"
+  },
+  "homepage": "https://github.com/shubham0596/node-sample#readme"
+}
